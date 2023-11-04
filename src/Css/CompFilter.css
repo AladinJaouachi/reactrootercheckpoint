@@ -1,0 +1,7 @@
+.d-flex{
+    width: 250px;
+}
+.searched{
+    display: flex;
+    gap: 40px;
+}

@@ -1,0 +1,14 @@
+/* .father{
+    width: 100%;
+    display: flex;
+    justify-content:space-around;
+} */
+
+.father>*{
+    display: flex;
+    justify-content: space-between;
+}
+.father button{
+    margin-left: 60px;
+    width: 220px;
+}

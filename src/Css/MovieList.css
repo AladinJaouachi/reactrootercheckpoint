@@ -1,0 +1,15 @@
+.Father{
+    width: 75%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px auto;
+    flex-wrap: wrap-reverse;
+
+}
+.Father>*{
+    margin:15px;
+}
+.Father img{
+    width: 100%;
+    height: 350px;
+}
